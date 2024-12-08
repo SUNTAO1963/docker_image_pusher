@@ -1,1 +1,1 @@
---platform=linux/amd64  yyq465009551/torch19_cu102:sparse_swin_sing
+raiden49/pointnet2:latest
