@@ -1,1 +1,1 @@
-marinbao/ros1_torch_py38_cuda113
+antonysigma/cuda1130-ubuntu2004
