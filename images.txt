@@ -1,1 +1,1 @@
-pytorch/manylinux-cuda113
+marinbao/ros1_torch_py38_cuda113
