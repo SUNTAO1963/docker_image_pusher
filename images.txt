@@ -1,1 +1,1 @@
-nvidia/cuda:11.3.1-devel-ubuntu20.04
+dustynv/jetson-inference:r35.3.1
