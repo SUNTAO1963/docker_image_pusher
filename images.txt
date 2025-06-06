@@ -1,1 +1,1 @@
-kahn0301/2dpass:1.0
+pytorch/manylinux-cuda111:latest
