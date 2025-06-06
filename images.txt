@@ -1,1 +1,2 @@
-pytorch/manylinux-cuda111:latest
+nvidia/cuda:11.1.1-devel-ubuntu20.04
+
