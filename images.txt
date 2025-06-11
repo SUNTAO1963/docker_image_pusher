@@ -1,1 +1,1 @@
-nvidia/cuda:11.1.1-runtime-ubuntu20.04
+levher/gpt4point:latest
