@@ -1,1 +1,1 @@
-levher/gpt4point:latest
+marcomameli92/pointllm:v0.1
